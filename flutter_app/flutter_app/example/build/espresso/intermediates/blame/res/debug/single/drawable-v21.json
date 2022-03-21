@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\7be45ee3c07fb3d387ee2be5c0852f62\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\7be45ee3c07fb3d387ee2be5c0852f62\\material-1.0.0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\7be45ee3c07fb3d387ee2be5c0852f62\\material-1.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\317b5882f4d8d34076111a0edf882c3e\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\317b5882f4d8d34076111a0edf882c3e\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\c69dff51eda740b9d8e41de9637149e8\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\317b5882f4d8d34076111a0edf882c3e\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\317b5882f4d8d34076111a0edf882c3e\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\7be45ee3c07fb3d387ee2be5c0852f62\\material-1.0.0\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\yeyom\\Desktop\\rovearth\\flutter_app\\flutter_app\\example\\build\\espresso\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\yeyom\\.gradle\\caches\\transforms-2\\files-2.1\\317b5882f4d8d34076111a0edf882c3e\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    }
+]

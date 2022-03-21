@@ -1,0 +1,401 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:espresso] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\espresso\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [:integration_test] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:7:1-12:12
+MERGED from [:permission_handler] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test.ext:truth:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\9c701ba8e443289f29321f7e65374edf\truth-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\90b500b66af98846871e410de5ff3045\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-intents:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9675bd8c959632abba37284ca66df64\espresso-intents-3.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:rules:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-contrib:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\09bd8f7d4d739e092cff3b48022b8bae\espresso-contrib-3.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.test.espresso:espresso-accessibility:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4ec1422507329bd68ea77eb994f56bb3\espresso-accessibility-3.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.test.espresso:espresso-web:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b72f221fd392d623286903a30cbf073\espresso-web-3.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.ext:junit:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48f88e374426bca47f02368b33a3f956\junit-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso.idling:idling-concurrent:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\6bbbde8e4e5e31b273d1af324c411df6\idling-concurrent-3.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7be45ee3c07fb3d387ee2be5c0852f62\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\871944a7828ddbc18ceab3bd5a6b9a7d\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\a1487f2f59d7316158c21c62db654290\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48728fc3be15cb5e686e524e85e7fabf\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\888a191c239c67b979e9291108e5d8bb\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e73fbc5ff6c7b62d3cc3ddeab926e391\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b24265552a3bc02c43c4996bb011677\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4c3d0149c1c7c6da8cf90653069795ac\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1d697319cda3067883bf1cb5e4ed9c69\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d8cbec0a2b08cc0823f1d52b2d36dfa1\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\5beee82e5ae80fcfe800829e26780711\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f195ef5065fc49f8b7e113c5bea74720\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c9bf732cc1a9b5e774d98ba20fae0497\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1b20c722bc691b927fab492e4d108a6d\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0acb35ffd4f76c94f541b2dbd86c08e1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\14eb8b7a6577bf32f1e430b5e6efcd8e\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca312c99fbfc3bf90490b571cc0b4011\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\00a27da1e6f769f8fb1788101112184b\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfba9a7ca95054f617f494b1747c8b32\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e5e374c843b6cb1589a5476668cd23d4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\901c465d5b623acbe91c952afe745eb1\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f5f68ef109c07b0ca9cb8fdc4d8e1d54\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\79327fa6914ffe2d9fe41a88e9541a65\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e2a1a382ba7c1384f9093f92f5c6ea6f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\defe0751ac7888b9aa596f170a8ee873\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\fcd38210d0f48f994e7225ffc9ea40e0\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\169ff925d31c56a8bb3c241ae3dcc5b9\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\94b4e7b0f680e69d5f7f6af118446216\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\3f46b88afd0bb5da6dc4f4c52c96db71\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e11e432978d8aa7315c2008b8a2431cd\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f03f13024a7220e13dff6042d781e3bb\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\da9110a1a889043c81fffacfb5ad5d5d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\de67eaed4c54032d4d340d8b424f27b2\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:2:5-51
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:5:5-78
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:26:5-48:19
+MERGED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:26:5-48:19
+MERGED from [androidx.test.espresso:espresso-contrib:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\09bd8f7d4d739e092cff3b48022b8bae\espresso-contrib-3.1.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.test.espresso:espresso-contrib:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\09bd8f7d4d739e092cff3b48022b8bae\espresso-contrib-3.1.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.test.espresso:espresso-accessibility:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4ec1422507329bd68ea77eb994f56bb3\espresso-accessibility-3.1.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.test.espresso:espresso-accessibility:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4ec1422507329bd68ea77eb994f56bb3\espresso-accessibility-3.1.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7be45ee3c07fb3d387ee2be5c0852f62\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7be45ee3c07fb3d387ee2be5c0852f62\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e73fbc5ff6c7b62d3cc3ddeab926e391\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e73fbc5ff6c7b62d3cc3ddeab926e391\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b24265552a3bc02c43c4996bb011677\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b24265552a3bc02c43c4996bb011677\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\94b4e7b0f680e69d5f7f6af118446216\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\94b4e7b0f680e69d5f7f6af118446216\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:9:5-29
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:9:5-29
+	android:icon
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:10:5-39
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:10:5-39
+	android:usesCleartextTraffic
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:7:18-53
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:13:7-15:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:15:13-66
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:14:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:17:9-19:71
+	android:value
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:19:13-68
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:18:13-58
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:20:9-32:20
+	android:hardwareAccelerated
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:22:13-116
+	android:theme
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:20:19-78
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:25:13-27:40
+	android:value
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:27:17-37
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:26:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:30:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:9-71
+	android:value
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:52-69
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:20-51
+uses-sdk
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:espresso] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\espresso\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:espresso] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\espresso\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:integration_test] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\integration_test\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-44
+MERGED from [:permission_handler] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.test.ext:truth:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\9c701ba8e443289f29321f7e65374edf\truth-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:truth:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\9c701ba8e443289f29321f7e65374edf\truth-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\90b500b66af98846871e410de5ff3045\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\90b500b66af98846871e410de5ff3045\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.test.espresso:espresso-intents:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9675bd8c959632abba37284ca66df64\espresso-intents-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-intents:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9675bd8c959632abba37284ca66df64\espresso-intents-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfd63dff534e72a6e856709b584e9fba\rules-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-contrib:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\09bd8f7d4d739e092cff3b48022b8bae\espresso-contrib-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-contrib:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\09bd8f7d4d739e092cff3b48022b8bae\espresso-contrib-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-accessibility:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4ec1422507329bd68ea77eb994f56bb3\espresso-accessibility-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-accessibility:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4ec1422507329bd68ea77eb994f56bb3\espresso-accessibility-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-web:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b72f221fd392d623286903a30cbf073\espresso-web-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-web:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b72f221fd392d623286903a30cbf073\espresso-web-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0e2b912ec7880a038c4077be92a0266b\espresso-core-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c058f13e7542e12132cc2c83de582ac4\runner-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48f88e374426bca47f02368b33a3f956\junit-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.ext:junit:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48f88e374426bca47f02368b33a3f956\junit-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso.idling:idling-concurrent:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\6bbbde8e4e5e31b273d1af324c411df6\idling-concurrent-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso.idling:idling-concurrent:3.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\6bbbde8e4e5e31b273d1af324c411df6\idling-concurrent-3.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e3372a8487b6f988596d97ed5affcf1e\espresso-idling-resource-3.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7be45ee3c07fb3d387ee2be5c0852f62\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7be45ee3c07fb3d387ee2be5c0852f62\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\871944a7828ddbc18ceab3bd5a6b9a7d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\871944a7828ddbc18ceab3bd5a6b9a7d\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\eff305a1f02f72bb6f129919ca428210\monitor-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\a1487f2f59d7316158c21c62db654290\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\a1487f2f59d7316158c21c62db654290\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48728fc3be15cb5e686e524e85e7fabf\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\48728fc3be15cb5e686e524e85e7fabf\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\888a191c239c67b979e9291108e5d8bb\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\888a191c239c67b979e9291108e5d8bb\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e73fbc5ff6c7b62d3cc3ddeab926e391\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e73fbc5ff6c7b62d3cc3ddeab926e391\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b24265552a3bc02c43c4996bb011677\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\7b24265552a3bc02c43c4996bb011677\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\cc87a18cab1842a5fafa36b8930ceb13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d9d20ace9b05f124ae89b651f0ddc9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4c3d0149c1c7c6da8cf90653069795ac\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4c3d0149c1c7c6da8cf90653069795ac\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1d697319cda3067883bf1cb5e4ed9c69\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1d697319cda3067883bf1cb5e4ed9c69\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d8cbec0a2b08cc0823f1d52b2d36dfa1\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\d8cbec0a2b08cc0823f1d52b2d36dfa1\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\5beee82e5ae80fcfe800829e26780711\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\5beee82e5ae80fcfe800829e26780711\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f195ef5065fc49f8b7e113c5bea74720\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f195ef5065fc49f8b7e113c5bea74720\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca29a0e07fb08e384809dd4651a8ea16\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0a6198b370cb00308b55faa5e39a04c3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c9bf732cc1a9b5e774d98ba20fae0497\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c9bf732cc1a9b5e774d98ba20fae0497\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1b20c722bc691b927fab492e4d108a6d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\1b20c722bc691b927fab492e4d108a6d\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0acb35ffd4f76c94f541b2dbd86c08e1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\0acb35ffd4f76c94f541b2dbd86c08e1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\14eb8b7a6577bf32f1e430b5e6efcd8e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\14eb8b7a6577bf32f1e430b5e6efcd8e\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f1986a27226319c26ad9cc06042f734a\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca312c99fbfc3bf90490b571cc0b4011\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\ca312c99fbfc3bf90490b571cc0b4011\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\00a27da1e6f769f8fb1788101112184b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\00a27da1e6f769f8fb1788101112184b\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfba9a7ca95054f617f494b1747c8b32\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\dfba9a7ca95054f617f494b1747c8b32\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e5e374c843b6cb1589a5476668cd23d4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e5e374c843b6cb1589a5476668cd23d4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\901c465d5b623acbe91c952afe745eb1\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\901c465d5b623acbe91c952afe745eb1\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f5f68ef109c07b0ca9cb8fdc4d8e1d54\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f5f68ef109c07b0ca9cb8fdc4d8e1d54\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\79327fa6914ffe2d9fe41a88e9541a65\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\79327fa6914ffe2d9fe41a88e9541a65\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e2a1a382ba7c1384f9093f92f5c6ea6f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e2a1a382ba7c1384f9093f92f5c6ea6f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\defe0751ac7888b9aa596f170a8ee873\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\defe0751ac7888b9aa596f170a8ee873\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\fcd38210d0f48f994e7225ffc9ea40e0\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\fcd38210d0f48f994e7225ffc9ea40e0\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\169ff925d31c56a8bb3c241ae3dcc5b9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\169ff925d31c56a8bb3c241ae3dcc5b9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\94b4e7b0f680e69d5f7f6af118446216\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\94b4e7b0f680e69d5f7f6af118446216\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2180419d599ac4cc6581f5869fe8a168\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\3f46b88afd0bb5da6dc4f4c52c96db71\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\3f46b88afd0bb5da6dc4f4c52c96db71\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e11e432978d8aa7315c2008b8a2431cd\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\e11e432978d8aa7315c2008b8a2431cd\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f03f13024a7220e13dff6042d781e3bb\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\f03f13024a7220e13dff6042d781e3bb\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\da9110a1a889043c81fffacfb5ad5d5d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\da9110a1a889043c81fffacfb5ad5d5d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\de67eaed4c54032d4d340d8b424f27b2\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\de67eaed4c54032d4d340d8b424f27b2\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml
+activity#io.flutter.plugins.googlemapsexample.GoogleMapsTestActivity
+ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:8:9-15:20
+	android:launchMode
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:10:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:14:13-55
+	android:configChanges
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:9:13-51
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from [:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:27:9-33:20
+	android:theme
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:28:13-99
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:30:13-32:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:34:9-40:20
+	android:theme
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:35:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:41:9-47:20
+	android:theme
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from [androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:42:13-103
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79

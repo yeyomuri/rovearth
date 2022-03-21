@@ -1,0 +1,178 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="io.flutter.plugins.googlemapsexample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs internet permission to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:5-66
+14-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:4:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:5:5-78
+15-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:5:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:6:5-80
+16-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:6:22-78
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->[:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-68
+17-->[:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-65
+18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+18-->[:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-74
+18-->[:flutter_bluetooth_serial] C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\build\flutter_bluetooth_serial\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-71
+19    <uses-permission android:name="android.permission.REORDER_TASKS" /> <!-- Include required permissions for Google Maps API to run. -->
+19-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:24:5-72
+19-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:24:22-69
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+25
+26    <application
+26-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:8:5-34:19
+27        android:name="androidx.multidex.MultiDexApplication"
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.5.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\62588199c1212b91172829818d646659\core-1.5.0\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:10:5-39
+31        android:label="Rovearth"
+31-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:9:5-29
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:7:18-53
+33        <activity
+33-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:8:9-15:20
+34            android:name="io.flutter.plugins.googlemapsexample.GoogleMapsTestActivity"
+34-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:9:13-51
+35            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+35-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:12:13-163
+36            android:hardwareAccelerated="true"
+36-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:13:13-47
+37            android:launchMode="singleTop"
+37-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:10:13-43
+38            android:theme="@style/LaunchTheme"
+38-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:11:13-47
+39            android:windowSoftInputMode="adjustResize" >
+39-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\debug\AndroidManifest.xml:14:13-55
+40        </activity>
+41
+42        <meta-data
+42-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:13:7-15:69
+43            android:name="com.google.android.gms.version"
+43-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:14:13-58
+44            android:value="@integer/google_play_services_version" /> <!-- Update this value to your google maps api key. -->
+44-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:15:13-66
+45        <meta-data
+45-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:17:9-19:71
+46            android:name="com.google.android.geo.API_KEY"
+46-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:18:13-58
+47            android:value="AIzaSyBJUt4BSj9Be734JqEnwaN0qLYoIm0j_JI" />
+47-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:19:13-68
+48
+49        <activity
+49-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:20:9-32:20
+50            android:name="io.flutter.embedding.android.FlutterActivity"
+50-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:20:19-78
+51            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale"
+51-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:22:13-116
+52            android:hardwareAccelerated="true"
+52-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:23:13-47
+53            android:theme="@style/LaunchTheme"
+53-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:21:13-47
+54            android:windowSoftInputMode="adjustResize" >
+54-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:24:13-55
+55            <meta-data
+55-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:25:13-27:40
+56                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+56-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:26:17-82
+57                android:value="true" />
+57-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:27:17-37
+58
+59            <intent-filter>
+59-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:28:13-31:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:17-68
+60-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:30:17-76
+62-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:30:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <meta-data
+66-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:9-71
+67            android:name="flutterEmbedding"
+67-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:20-51
+68            android:value="2" />
+68-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:33:52-69
+69
+70        <activity
+70-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:27:9-33:20
+71            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+71-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:28:13-99
+72            android:theme="@android:style/Theme" >
+72-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:29:13-49
+73            <intent-filter>
+73-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:30:13-32:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:17-68
+74-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:25-66
+75            </intent-filter>
+76        </activity>
+77        <activity
+77-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:34:9-40:20
+78            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+78-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:35:13-95
+79            android:theme="@android:style/Theme" >
+79-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:36:13-49
+80            <intent-filter>
+80-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:30:13-32:29
+81                <action android:name="android.intent.action.MAIN" />
+81-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:17-68
+81-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:25-66
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:41:9-47:20
+85            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+85-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:42:13-103
+86            android:theme="@android:style/Theme.Dialog" >
+86-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:43:13-56
+87            <intent-filter>
+87-->[androidx.test:core:1.2.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\4f840f8cbd80fa192c269c08da58f451\core-1.2.0\AndroidManifest.xml:30:13-32:29
+88                <action android:name="android.intent.action.MAIN" />
+88-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:17-68
+88-->C:\Users\yeyom\Desktop\rovearth\flutter_app\flutter_app\example\android\app\src\main\AndroidManifest.xml:29:25-66
+89            </intent-filter>
+90        </activity> <!-- Needs to be explicitly declared on P+ -->
+91        <uses-library
+91-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+92            android:name="org.apache.http.legacy"
+92-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+93            android:required="false" />
+93-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\2af23ae7a28ebdd163e11b223d5179ff\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+94
+95        <activity
+95-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+96            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+96-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yeyom\.gradle\caches\transforms-2\files-2.1\c687ceee60ba643f3db78cb72bf6d1b7\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+99    </application>
+100
+101</manifest>

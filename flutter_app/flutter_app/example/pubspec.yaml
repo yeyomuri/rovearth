@@ -1,0 +1,34 @@
+name: google_maps_flutter_example
+description: Demonstrates how to use the google_maps_flutter plugin.
+publish_to: none
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  cupertino_icons: ^0.1.0
+  flutter:
+    sdk: flutter
+  flutter_bluetooth_serial: ^0.4.0
+  flutter_plugin_android_lifecycle: ^2.0.1
+  geolocator: ^8.0.5
+  google_maps_flutter:
+    path: ../
+  maps_toolkit: ^2.0.0
+  permission_handler: ^8.3.0
+  provider: ^6.0.2
+  scoped_model: ^2.0.0-nullsafety.0
+
+dev_dependencies:
+  espresso: ^0.1.0+2
+  flutter_driver:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  pedantic: ^1.10.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/dot.png
