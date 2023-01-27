@@ -4,3 +4,28 @@ Código python que permite controlar el rover. Está conectado a la app mobile m
 
 Para este proyecto es necesario activar Bluetooth y enparejarlo con el dispositivo movil.
 
+Bluetooth configuration on raspberr pi.
+
+0.) Mobile app bluetooth pairing
+
+	$ sudo bluetoothctl
+	# power on
+	# agent on
+	# scan on
+	# pair [MAC of the Flutter host]
+	# quit
+
+
+1.) sudo nano /etc/systemd/system/dbus-org.bluez.service
+
+2.) Add -C and next line
+
+	ExecStart=/usr/libexec/bluetooth/bluetoothd -C
+	ExecStartPost=/usr/bin/sdptool add SP
+
+3.) sudo systemctl daemon-reload
+
+4.) sudo systemctl restart bluetooth.service
+
+5.) sudo pip3 install bluedot
+
