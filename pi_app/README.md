@@ -16,16 +16,16 @@ Bluetooth configuration on raspberr pi.
 	# quit
 
 
-1.) sudo nano /etc/systemd/system/dbus-org.bluez.service
+$ sudo nano /etc/systemd/system/dbus-org.bluez.service
 
 2.) Add -C and next line
 
 	ExecStart=/usr/libexec/bluetooth/bluetoothd -C
 	ExecStartPost=/usr/bin/sdptool add SP
 
-3.) sudo systemctl daemon-reload
+$ sudo systemctl daemon-reload
 
-4.) sudo systemctl restart bluetooth.service
+$ sudo systemctl restart bluetooth.service
 
-5.) sudo pip3 install bluedot
+$ sudo pip3 install bluedot
 
